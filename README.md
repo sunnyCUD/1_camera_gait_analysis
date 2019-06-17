@@ -1,1 +1,1 @@
-1_camera_gait_analysis
+1 camera gait analysis
